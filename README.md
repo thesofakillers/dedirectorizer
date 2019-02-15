@@ -54,4 +54,7 @@ You should now be able to write ```dedirectorize.sh``` into any terminal directo
 ## Why?
 
 For a certain university assignment, I was asked if I could share my project files on the university portal as I made progress throughout. On my machine, my project files were neatly organized in directories, subdirectories etc. The university portal fileshare system however did not support the creation of folders. As such I decided to embed my project directory structure into the filenames to make the organization clear on the portal despite the lack of folders. 
-Note, I of course considered simply using a .zip file but opted not to as this would require me to re-upload my entire project each time I decided to update the university portal fileshare.
+
+NB: I of course considered simply using a .zip file but opted not to as this would require me to re-upload my entire project each time I decided to update the university portal fileshare.
+
+This is also truly my first custom bash script (so may be not that good/smart) as I wanted to learn/get better at this particular topic
